@@ -1,5 +1,5 @@
 locals {
-  name_prefix = "seans3"
+  name_prefix = ""
 }
 
 resource "aws_s3_bucket" "static_bucket" {
